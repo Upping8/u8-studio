@@ -1,2 +1,2 @@
 # u8-studio
-upping8 studio official web project
+upping8 studio official web project server
